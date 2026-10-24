@@ -165,5 +165,5 @@ placeholders by design:
   4. Add a separate detail page for each product, with live prices.
   5. Publish the site on a hosting service with its own domain name.
 
-
+Author: Ishmail.Junior.Kamara
 (c) 2026 Salone Farmers Market. All rights reserved.
