@@ -154,6 +154,9 @@ placeholders by design:
     There is no account system yet.
   - Produce details are shown for one product (rice). Other items link
     to the same page as a layout example.
+##Website Screenshot
+###Home page
+[Salone's Farmers Market] (HOME.png)
 
 
 8. SUGGESTED NEXT STEPS
