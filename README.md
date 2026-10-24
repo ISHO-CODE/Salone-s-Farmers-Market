@@ -167,5 +167,31 @@ placeholders by design:
   4. Add a separate detail page for each product, with live prices.
   5. Publish the site on a hosting service with its own domain name.
 
+  ## Website Screenshots
+
+### Home Page
+![Home Page](./HOME.png)
+
+### About Page
+![About Page](./ABOUT.png)
+
+### Contact Page
+![Contact Page](./CONTACT.png)
+
+### Farmers and Cooperatives
+![Farmers and Cooperatives](./FARMERS%20AND%20COOPERATIVES.png)
+
+### Market Prices
+![Market Prices](./MARKET%20PRICES.png)
+
+### Marketplace
+![Marketplace](./MARKETPLACE.png)
+
+### Produce Details
+![Produce Details](./PRODUCE%20DETAILS.png)
+
+### Services
+![Services](./SERVICES.png)
+
 Author: Ishmail.Junior.Kamara
 (c) 2026 Salone Farmers Market. All rights reserved.
