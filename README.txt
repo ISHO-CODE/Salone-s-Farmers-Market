@@ -155,8 +155,31 @@ placeholders by design:
   - Produce details are shown for one product (rice). Other items link
     to the same page as a layout example.
 ##Website Screenshot
-###Home page
-[Salone's Farmers Market] (HOME.png)
+## Website Screenshots
+
+### Home Page
+![Home Page](HOME.png)
+
+### About Page
+![About Page](ABOUT.png)
+
+### Marketplace
+![Marketplace](MARKETPLACE.png)
+
+### Market Prices
+![Market Prices](MARKET%20PRICES.png)
+
+### Farmers and Cooperatives
+![Farmers and Cooperatives](FARMERS%20AND%20COOPERATIVES.png)
+
+### Produce Details
+![Produce Details](PRODUCE%20DETAILS.png)
+
+### Services
+![Services](SERVICES.png)
+
+### Contact Page
+![Contact Page](CONTACT.png)
 
 
 8. SUGGESTED NEXT STEPS
